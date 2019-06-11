@@ -1,6 +1,6 @@
 # docker_dashboard
 Docker monitoring ( using docker stats )
-* prerequisites *
+# prerequisites #
 - linux
 - python
 - mongo
